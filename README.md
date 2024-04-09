@@ -1,5 +1,4 @@
 # ScrumMasterRepository
-ScrumMasterRepository #
 US SOM ADMIN - GRUPPE Z 
 
 User Story 1: Creation and Assignment of Users and Permissions
